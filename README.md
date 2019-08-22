@@ -203,7 +203,7 @@ programming is becoming comfortable with finding answers in the documentation.
 We'll certainly get you started, but you need to own your own education.
 
 To help make sure you grasp what kinds of methods follow the "Character of
-Enumerable Methods," consult Ruby's [Enumerable documentation][enumdoc]. Look
+Enumerable Methods," consult Ruby's [Enumerable documentation](https://ruby-doc.org/core-2.6.3/Enumerable.html). Look
 at the list of Methods on the left. You'll see what kind of activities follow
 the Enumerable character. Pick a few methods that you find interesting and look
 at the code examples.  You don't need to understand the code fully here, just
